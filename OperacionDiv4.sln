@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacionDiv4", "OperacionDiv4\OperacionDiv4.csproj", "{14AE0E63-B56B-401A-B872-CB9AEAEA735D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AE0E63-B56B-401A-B872-CB9AEAEA735D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AE0E63-B56B-401A-B872-CB9AEAEA735D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AE0E63-B56B-401A-B872-CB9AEAEA735D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AE0E63-B56B-401A-B872-CB9AEAEA735D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F6444A2-F8AD-447A-8E85-861B02D0801A}
+	EndGlobalSection
+EndGlobal
